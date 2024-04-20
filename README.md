@@ -4,7 +4,7 @@ Welcome to my GitHub! Feel free to ask me about anything or explore my repositor
 
 ## About Me
 
-I'm a passionate developer with a keen interest in solving complex problems and building innovative applications. Check out my [portfolio](https://vlad15.1github.io/PortofolioApplication) for a more comprehensive look at my work. My GitHub repos reflect my journey through coding, showcasing projects that range from whimsical web apps to serious system designs. Join me in my quest to not only push the bounds of technology but also to make software more accessible, efficient, and fun.
+I'm a passionate developer with a keen interest in solving complex problems and building innovative applications. Check out my [portfolio](https://vlad151.github.io/PortofolioApplication) for a more comprehensive look at my work. My GitHub repos reflect my journey through coding, showcasing projects that range from whimsical web apps to serious system designs. Join me in my quest to not only push the bounds of technology but also to make software more accessible, efficient, and fun.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
